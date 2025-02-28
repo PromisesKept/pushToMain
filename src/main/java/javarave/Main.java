@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 //TIP сюда ачивку мне!
-        System.out.printf("Hello, GitHub Achievements!");
+        System.out.print("Hello, GitHub Achievements!");
 
 
         Scanner scanner = new Scanner(System.in);
@@ -15,5 +15,4 @@ public class Main {
         System.out.println("Hello, " + name + "! Welcome to GitHub Achievements!");
     }
 
-    }
 }
